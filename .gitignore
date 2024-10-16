@@ -1,0 +1,17 @@
+build/autom4te.cache
+build/config.*
+build/cluster/*
+build/error.log
+build/libtool
+build/Makefile
+build/sphere/*
+build/testing/*
+build/trapping/*
+build/libnptm/*
+containers/singularity/*.sif
+doc/build/*
+src/libnptm/.libs
+src/libnptm/*.lo
+src/*/.deps
+src/*/.dirstamp
+src/*/*.o
